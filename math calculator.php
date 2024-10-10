@@ -13,4 +13,5 @@
         <input type="text" name="operator2" required>
         <input type="text" name="input3" required>
         <button type="submit">Calculate</button>
+        
     </form>
